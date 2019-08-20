@@ -1,0 +1,86 @@
+form {
+  margin-top: 3%;
+}
+
+.form-group input {
+  height: 20px;
+  padding: 20px;
+  font-size: 14px;
+}
+
+form button {
+  font-family: "Roboto", sans-serif;
+  text-transform: uppercase;
+  background: #4caf50;
+  width: 100%;
+  border: 0;
+}
+
+.form-header {
+  text-align: center;
+  color: #4caf50;
+  font-size: 20px;
+  text-transform: uppercase;
+}
+
+.message {
+  margin-top: 20px;
+  color: #4caf50;
+}
+
+.navbar {
+  background: #4caf50;
+  color: white;
+}
+
+.dropdown-menu {
+  background: #4caf50;
+  color: white;
+}
+
+.nav-link {
+  color: white;
+}
+
+.nav-item {
+  margin-right: 10px;
+}
+
+.nav-link:hover {
+  color: white;
+}
+
+.user-logo {
+  height: 30px;
+  width: 30px;
+}
+
+.form-group .form-control option {
+  text-align: center;
+}
+
+.table-logo {
+  height: 30px;
+  width: 30px;
+}
+
+.button-delete {
+  width: 50%;
+}
+
+th {
+  color: #4caf50;
+}
+
+.voters-info thead {
+  text-transform: uppercase;
+}
+
+.voters-info tbody tr td {
+  font-size: 20px;
+}
+
+.voters-info {
+  height: 100px;
+  width: 100%;
+}
